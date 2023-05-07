@@ -1,6 +1,6 @@
 # printf
 
-Dieses Repository enthält ein Programm zum printen von "Hello World".
+Dieses Repository enthält ein Programm zum printen einer Rose.
 Diese README.md-Datei wurde in vim geschrieben.
 
 # Kompilation
